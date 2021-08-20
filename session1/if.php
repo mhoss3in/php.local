@@ -2,5 +2,5 @@
 $a = 12;
 $b = 20;
 if ($a < $b){
-    echo "a < b";
+    echo "a +b";
 }
